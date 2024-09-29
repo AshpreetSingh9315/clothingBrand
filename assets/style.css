@@ -350,14 +350,15 @@ input{
 }
 
 input{
-float: right;
-/* display: block; */
-height: 5vh;
 width: 84vw;
-background: transparent;
-border: none;
-border-bottom: 1px solid white;
-padding: 0px 15px;
+}
+
+.cards {
+  justify-content: center;
+}
+
+.products h1{
+  text-align: center;
 }
 
 }
