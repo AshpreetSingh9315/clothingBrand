@@ -307,8 +307,8 @@ input{
   }
 
   .head1 h1 {
-    text-align: center;
-    font-size: 16.7vh;
+    /* text-align: center; */
+    font-size: 10.7vh;
     letter-spacing: -0.5vh;
     font-weight: 900;
   }
@@ -329,7 +329,7 @@ input{
   }
 
   .main h1{
-    font-size: 7.5vh;
+    font-size: 5.9vh;
 }
 
 .top{
@@ -357,8 +357,25 @@ width: 84vw;
   justify-content: center;
 }
 
-.products h1{
-  text-align: center;
+.foot2 h1{
+  font-size: 8vh;
+  color: gray;
+  mix-blend-mode: color-burn;
+
 }
+
+.products h1{
+  text-align: start;
+  font-size: 9.7vh;
+}
+ 
+ 
+ .end{
+  padding-top: 20px;
+ }
+
+ .end p{
+  font-size: 1.6vh;
+ }
 
 }
